@@ -7,3 +7,4 @@ console.log("helloooo broooo")
 console.log("hello mr sanjay")
 
 console.log("HOja re is bar ")
+console.log("hello satyam")
